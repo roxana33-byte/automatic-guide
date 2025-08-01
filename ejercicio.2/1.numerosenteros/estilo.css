@@ -1,0 +1,14 @@
+body {
+  background-color: #ffe0f0;
+  font-family: 'Georgia', serif;
+}
+.container {
+  max-width: 500px;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #aaa;
+}
+h2 {
+  color: #cc3366;
+}

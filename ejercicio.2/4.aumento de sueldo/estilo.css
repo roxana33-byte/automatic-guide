@@ -1,0 +1,15 @@
+body {
+  background-color: #001f3f;
+  color: white;
+  font-family: 'Verdana', sans-serif;
+}
+.container {
+  max-width: 600px;
+  background-color: #003366;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #00ffff;
+}
+h2 {
+  color: #00ffff;
+}
